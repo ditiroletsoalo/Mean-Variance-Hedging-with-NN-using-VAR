@@ -1,4 +1,4 @@
-# 🧠 Neural Network-Based Hedging via Quadratic Error Minimization
+# 🧠 Mean Variance Hedging with Neural Network with Vecto-Autoregression models path as underlying generator
 
 ## 📘 Preface
 
