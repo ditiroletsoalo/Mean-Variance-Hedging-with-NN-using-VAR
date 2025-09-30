@@ -1,4 +1,4 @@
-# 🧠 Mean Variance Hedging with Neural Network with Vecto-Autoregression models path as underlying generator
+# 🧠 Mean Variance Hedging with Neural Network with Vecto-Autoregression Models as underlying Sample Path Generator
 
 ## 📘 Preface
 
